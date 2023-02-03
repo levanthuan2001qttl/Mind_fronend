@@ -1,0 +1,14 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.item {
+    width: 30%;
+}
+.profileName {
+    font-weight: 100;
+}
+.quantityFollow {
+    font-weight: 100;
+}

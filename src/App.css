@@ -1,38 +1,47 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.brand-logo {
+    font-family: 'Grand Hotel', cursive;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.auth-btn {
+    margin-right: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.my-card {
+    margin-top: 50px;
 }
 
-.App-link {
-  color: #61dafb;
+.auth-card {
+    padding: 20px;
+    text-align: center;
+    max-width: 400px;
+    margin: 10px auto;   
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn-submit-post {
+    margin-left: 37%;
+}
+#toast-container {
+    top: 20px !important;
+    right: 30px !important;
+    left: auto !important;
+}
+i.material-icons.icon-thumb:hover,
+i.material-icons:hover
+{
+    cursor: pointer;
+}
+.user-info {
+    display: flex; 
+    justify-content: space-around; 
+    margin: 16px 0px; 
+    border-bottom: 1px solid rgb(204, 204, 204); 
+    padding: 48px;
+}
+a {
+    text-decoration: none !important;
 }

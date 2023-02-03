@@ -1,0 +1,31 @@
+.homeCard {
+    max-width: 600px;
+    height: max-content;
+    margin: 26px auto;
+}
+.namePost {
+    padding: 14px 16px;
+    border-bottom: 1px solid #b1a9a9;
+    margin: 0;
+}
+.titlePost {
+    color: black;
+    font-weight: 500;
+}
+.showComment {
+    background-color: #e3dfdf;
+    border-radius: 17px;
+    padding: 7px 0;
+    margin: 5px 0;
+}
+.nameComment, .textComment {
+    margin:0 14px;
+}
+.nameComment {
+    color: black;
+    font-weight: 500;
+}
+.modalDPost {
+    width: 400px !important;
+    height: 200px !important;
+}
