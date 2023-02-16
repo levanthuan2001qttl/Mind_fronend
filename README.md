@@ -1,6 +1,6 @@
-## Cryptocurrency Tracking And Analysis System
+## Mind Meetme 
 
-### Capstone Project 1 - Source Frontend (User)
+### Source Frontend (User)
 
 ### How to run this project?
 
