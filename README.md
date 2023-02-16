@@ -13,7 +13,7 @@ $ git clone https://github.com/levanthuan2001qttl/Mind_fronend
 #### 2. Change directory to folder frontend
 
 ```bash
-$ cd frontend
+$ cd Mind_fronend
 ```
 
 #### 3. Install dependencies
